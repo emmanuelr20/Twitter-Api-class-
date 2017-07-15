@@ -11,4 +11,4 @@ $hash_tag = new HashTagger(	"BKRaDDqgqt4QP79NZhPSxgOab",
 				);
 $res = $hash_tag->getTweets('espn');
 
-var_dump($res);
+print_r($res);
